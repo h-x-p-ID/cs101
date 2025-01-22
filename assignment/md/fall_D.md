@@ -18,7 +18,7 @@ brute force, http://cs101.openjudge.cn/practice/02692
 
 思路：先遍历十二枚硬币找到假币即可，只需要重新代入表达式就能快速判断轻重。对于假币，它不能出现在结果为even的称量中，且要么同时出现在结果为up的天平右侧和结果为down的天平左侧（即light），要么反之（即heavy）。
 
-##### 代码
+代码
 
 ```
 def is_counterfeit(coin,s):
@@ -69,7 +69,7 @@ for _ in range(cases):
 
 dp, dfs similar, http://cs101.openjudge.cn/practice/01088
 
-##### 代码
+代码
 
 ```
 def dfs(x, y):
@@ -100,6 +100,8 @@ print(ans)
 ###  25572: 螃蟹采蘑菇
 
 bfs, dfs, http://cs101.openjudge.cn/practice/25572/
+
+代码
 
 ```
 from collections import deque
@@ -147,7 +149,7 @@ dp, http://cs101.openjudge.cn/practice/27373/
 
 dp部分还是不会，参考了老师发的ai题解。
 
-##### 代码
+代码
 
 ```
 m = int(input())
@@ -169,7 +171,7 @@ brute force, http://cs101.openjudge.cn/practice/02811
 
 假币问题会，这个题就不会了，对于穷举问题的思路还是遇到难的就发癫，会不了一点。对着题解写了一遍，努力理解了题解的每一步在干什么。
 
-##### 代码
+代码
 
 ```
 n = 5
@@ -204,7 +206,7 @@ binary search, greedy, http://cs101.openjudge.cn/practice/08210/
 
 同上，参照题解写了
 
-##### 代码
+代码
 
 ```
 def check(x):

@@ -16,7 +16,7 @@ Updated 1649 GMT+8 Dec 5, 2024
 
 http://cs101.openjudge.cn/practice/22548/
 
-##### 代码
+代码
 
 ```
 lst = list(map(int,input().split()))
@@ -40,7 +40,7 @@ greedy, http://cs101.openjudge.cn/practice/28701/
 
 （主打一个数学方法至上。不过机考的时候应该想不出数学方法罢（悲）。Dp的话就是取前面所有项的和，应该也好写。）
 
-##### 代码
+代码
 
 ```
 n,k = map(int,input().split())
@@ -63,6 +63,8 @@ print(f"{s / k:.3f}")
 
 dp, http://cs101.openjudge.cn/practice/20744/
 
+代码
+
 ```
 lst = list(map(int, input().split(",")))
 dp1 = [0] * len(lst)
@@ -80,7 +82,7 @@ print(max(max(dp1),max(dp2))
 
 brute force, dfs, http://cs101.openjudge.cn/practice/25561/
 
-##### 代码
+代码
 
 ```
 ans = float('inf')
@@ -118,7 +120,7 @@ print(ans)
 
 dfs, bfs, http://cs101.openjudge.cn/practice/20741/
 
-##### 代码
+代码
 
 ```
 import heapq
@@ -154,7 +156,7 @@ print(dijkstra(a,b))
 
 greedy, http://cs101.openjudge.cn/practice/28776
 
-##### 代码
+代码
 
 ```
 n = int(input())

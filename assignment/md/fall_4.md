@@ -16,7 +16,7 @@ Updated 0337 GMT+8 Oct 15, 2024
 
 greedy, sorting, 900, https://codeforces.com/problemset/problem/34/B
 
-##### 代码
+代码
 
 ```
 a,b = map(int,input().split())
@@ -39,7 +39,7 @@ print(-sum(buy_tv))
 
 greedy, sortings, 900, https://codeforces.com/problemset/problem/160/A
 
-##### 代码
+代码
 
 ```
 num = int(input())
@@ -60,7 +60,7 @@ constructive algorithms, greedy, 900,
 
 https://codeforces.com/problemset/problem/1879/B
 
-##### 代码
+代码
 
 ```
 a = int(input())
@@ -81,7 +81,7 @@ for _ in range(a):
 
 https://codeforces.com/problemset/problem/158/B
 
-##### 代码
+代码
 
 ```
 num = int(input())
@@ -108,7 +108,7 @@ binary search, implementation, math, number theory, 1300,
 
 http://codeforces.com/problemset/problem/230/B
 
-##### 代码
+代码
 
 ```
 我再研究研究不超时的做法。。。
@@ -120,7 +120,7 @@ http://codeforces.com/problemset/problem/230/B
 
 greedy, strings, sortings, http://cs101.openjudge.cn/practice/12559
 
-##### 代码
+代码
 
 ```
 num = int(input())

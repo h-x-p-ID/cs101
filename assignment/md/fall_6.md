@@ -16,7 +16,7 @@ Updated 2201 GMT+8 Oct 29, 2024
 
 recursion, https://sunnywhy.com/sfbj/4/3/119 
 
-##### 代码
+代码
 
 ```
 def moves(a,b,c,num):
@@ -41,7 +41,7 @@ moves("A","B","C",n)
 
 recursion, https://sunnywhy.com/sfbj/4/3/132
 
-##### 代码
+代码
 
 ```
 def perm(num1,num,num_used,lst,lst_perm):
@@ -69,6 +69,8 @@ for i in lst_perm:
 
 dp, http://cs101.openjudge.cn/2024fallroutine/02945
 
+代码
+
 ```
 num = int(input())
 lst = list(map(int, input().split()))
@@ -88,7 +90,7 @@ print(max(dp_lst))
 
 dp, http://cs101.openjudge.cn/practice/23421
 
-##### 代码
+代码
 
 ```
 n,b = map(int,input().split())
@@ -112,7 +114,7 @@ print(max(max(dp)))
 
 dfs and similar, http://cs101.openjudge.cn/practice/02754
 
-##### 代码
+代码
 
 ```
 
@@ -124,7 +126,7 @@ dfs and similar, http://cs101.openjudge.cn/practice/02754
 
 brute force, dp 1300 https://codeforces.com/problemset/problem/189/A
 
-##### 代码
+代码
 
 ```
 

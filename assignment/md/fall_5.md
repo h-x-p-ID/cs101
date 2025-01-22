@@ -16,7 +16,7 @@ Updated 1939 GMT+8 Oct 21, 2024
 
 brute force, http://cs101.openjudge.cn/practice/04148
 
-##### 代码
+代码
 
 ```
 case = 0
@@ -38,7 +38,7 @@ while True:
 
 greedy, two pointers, http://cs101.openjudge.cn/practice/18211
 
-##### 代码
+代码
 
 ```
 p = int(input())
@@ -71,7 +71,7 @@ print(num)
 
 greedy, http://cs101.openjudge.cn/practice/21554
 
-##### 代码
+代码
 
 ```
 a = int(input())
@@ -96,7 +96,7 @@ print(f"{ans / num:.2f}")
 
 implementation, http://cs101.openjudge.cn/practice/01008/
 
-##### 代码
+代码
 
 ```
 dic_h = {"pop":1,"no":2,"zip":3,"zotz":4,"tzec":5,"xul":6,"yoxkin":7,"mol":8,"chen":9,"yax":10,"zac":11,"ceh":12,"mac":13,"kankin":14,"muan":15,"pax":16,"koyab":17,"cumhu":18,"uayet":19}
@@ -120,7 +120,7 @@ for _ in range(n):
 
 dp, greedy, 1500, https://codeforces.com/problemset/problem/545/C
 
-##### 代码
+代码
 
 ```
 n = int(input())
@@ -150,7 +150,7 @@ print(ans)
 
 greedy, http://cs101.openjudge.cn/practice/01328/
 
-##### 代码
+代码
 
 ```
 没做。

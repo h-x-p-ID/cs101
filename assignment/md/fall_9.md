@@ -16,7 +16,7 @@ Updated 2107 GMT+8 Nov 19, 2024
 
 dfs similar, http://cs101.openjudge.cn/practice/18160
 
-##### 代码
+代码
 
 ```
 s = 0
@@ -52,7 +52,7 @@ for _ in range(cases):
 
 bfs, http://cs101.openjudge.cn/practice/19930
 
-##### 代码
+代码
 
 ```
 from collections import deque
@@ -83,6 +83,8 @@ print(bfs(1,1))
 ###  04123: 马走日
 
 dfs, http://cs101.openjudge.cn/practice/04123
+
+代码
 
 ```
 ans = 0
@@ -118,7 +120,7 @@ for _ in range(cases):
 
 dfs, https://sunnywhy.com/sfbj/8/1/316
 
-##### 代码
+代码
 
 ```
 maxValue = float("-inf")
@@ -160,7 +162,7 @@ dp, https://leetcode.cn/problems/unique-paths/
 
 （偷个懒（不是））（但是用组合数确实秒了）
 
-##### 代码
+代码
 
 ```
 from math import factorial
@@ -175,7 +177,7 @@ class Solution(object):
 
 dfs, dp, https://sunnywhy.com/sfbj/8/3/539
 
-##### 代码
+代码
 
 ```
 from math import sqrt

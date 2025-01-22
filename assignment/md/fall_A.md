@@ -16,7 +16,7 @@ Updated 2 GMT+8 Nov 25, 2024
 
 dp, bfs, https://www.luogu.com.cn/problem/P1255
 
-##### 代码
+代码
 
 ```
 n = int(input())
@@ -38,7 +38,7 @@ dp, http://cs101.openjudge.cn/practice/27528/
 
 （主打一个数学方法至上。不过机考的时候应该想不出数学方法罢（悲）。Dp的话就是取前面所有项的和，应该也好写。）
 
-##### 代码
+代码
 
 ```
 n = int(input())
@@ -50,6 +50,8 @@ print(2 ** (n - 1))
 ###  474D. Flowers
 
 dp, https://codeforces.com/problemset/problem/474/D
+
+代码
 
 ```
 1.	t, k = map(int, input().split())
@@ -74,7 +76,7 @@ dp, two pointers, string,
 
  https://leetcode.cn/problems/longest-palindromic-substring/
 
-##### 代码
+代码
 
 ```
 class Solution(object):
@@ -107,7 +109,7 @@ class Solution(object):
 
 bfs, dfs, http://cs101.openjudge.cn/practice/12029/
 
-##### 代码
+代码
 
 ```
 import sys
@@ -150,7 +152,7 @@ sys.stdout.write("\n".join(ans) + "\n")
 
 bfs, http://cs101.openjudge.cn/practice/02802/
 
-##### 代码
+代码
 
 ```
 from collections import deque

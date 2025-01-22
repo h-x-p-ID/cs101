@@ -16,7 +16,7 @@ Updated 1537 GMT+8 Oct 10, 2024
 
 http://cs101.openjudge.cn/practice/28674/
 
-##### 代码
+代码
 
 ```
 k = int(input())
@@ -43,7 +43,7 @@ print(ss)
 
 http://cs101.openjudge.cn/practice/28674/
 
-##### 代码
+代码
 
 ```
 a = input()
@@ -58,7 +58,7 @@ print(c+b)
 
 http://cs101.openjudge.cn/practice/28664/
 
-##### 代码
+代码
 
 ```
 dicta = {0:7,1:9,2:10,3:5,4:8,5:4,6:2,7:1,8:6,9:3,10:7,11:9,12:10,13:5,14:8,15:4,16:2}
@@ -82,7 +82,7 @@ for _ in range(n):
 
 http://cs101.openjudge.cn/practice/28678/
 
-##### 代码
+代码
 
 ```
 num = int(input())
@@ -106,7 +106,7 @@ http://cs101.openjudge.cn/practice/28700/
 
 忘记用字典了，写了个答辩一样复杂的if and else出来。字典的写法跟题解差不多，这里还是交我一开始的代码了。
 
-##### 代码
+代码
 
 ```
 num = str(input())
@@ -212,7 +212,7 @@ print(num_)
 
 http://cs101.openjudge.cn/practice/25353/
 
-##### 没做。
+没做。
 
 
 

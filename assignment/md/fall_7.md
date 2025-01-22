@@ -16,7 +16,7 @@ Updated 2201 GMT+8 Oct 29, 2024
 
 sorttings, http://cs101.openjudge.cn/practice/07618/
 
-##### 代码
+代码
 
 ```
 n = int(input())
@@ -57,7 +57,7 @@ for k in lst:
 
 implementation, matrices, http://cs101.openjudge.cn/practice/23555/
 
-##### 代码
+代码
 
 ```
 n, m1, m2 = map(int, input().split())
@@ -92,6 +92,8 @@ implementation/sortings/data structures,
 
 http://cs101.openjudge.cn/practice/18182/
 
+代码
+
 ```
 cases = int(input())
 for _ in range(cases):
@@ -124,7 +126,7 @@ for _ in range(cases):
 
 dp, http://cs101.openjudge.cn/practice/28780/
 
-##### 代码
+代码
 
 ```
 ///因为期中考落下了进度比较多，dp基本还是要参照题解才能写出来，所以没有复制这题的代码///
@@ -136,7 +138,7 @@ dp, http://cs101.openjudge.cn/practice/28780/
 
 implementation, http://cs101.openjudge.cn/practice/12757
 
-##### 代码
+代码
 
 ```
 dict = {"zero":0, "one":1, "two":2, "three":3, "four":4, "five":5, "six":6, "seven":7, "eight":8, "nine":9, "ten":10, "eleven":11, "twelve":12, "thirteen":13, "fourteen":14, "fifteen":15, "sixteen":16, "seventeen":17, "eighteen":18, "nineteen":19, "twenty":20, "thirty":30, "forty":40, "fifty":50, "sixty":60, "seventy":70, "eighty":80, "ninety":90}
@@ -180,7 +182,7 @@ print(num)
 
 greedy/dp, cs10117 Final Exam, http://cs101.openjudge.cn/practice/16528/
 
-##### 代码
+代码
 
 ```
 n = int(input())

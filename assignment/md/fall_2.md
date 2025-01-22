@@ -14,8 +14,6 @@ Updated 0126 GMT+8 Sep 24, 2024
 
 ### 263A. Beautiful Matrix
 
-##### 代码
-
 ```
 matrix = []
 for _ in range(5):
@@ -34,8 +32,6 @@ print(num)
 
 ### 1328A. Divisibility Problem
 
-##### 代码
-
 ```
 n = int(input())
 for _ in range(n):
@@ -49,8 +45,6 @@ for _ in range(n):
 
 
 ### 427A. Police Recruits
-
-##### 代码
 
 ```
 n = int(input())
@@ -75,8 +69,6 @@ print(sum(lst_crime))
 
 ### 02808: 校门外的树
 
-##### 代码
-
 ```
 l,m = map(int,input().split())
 tree = [1] * (l+1)
@@ -91,8 +83,6 @@ print(sum(tree))
 
 
 ### sy60: 水仙花数II
-
-##### 代码
 
 ```
 a,b = map(int,input().split())
@@ -113,7 +103,7 @@ else:
 
 ### 01922: Ride to School
 
-##### 没做。
+没做。
 
 
 

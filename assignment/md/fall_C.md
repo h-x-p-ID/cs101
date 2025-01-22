@@ -16,7 +16,7 @@ Updated 1148 GMT+8 Dec 10, 2024
 
 dfs, https://www.acwing.com/problem/content/description/1117/
 
-##### 代码
+代码
 
 ```
 while True:
@@ -43,7 +43,7 @@ while True:
 
 Matrices, http://cs101.openjudge.cn/practice/25570
 
-##### 代码
+代码
 
 ```
 n = int(input())
@@ -76,6 +76,8 @@ greedy, dp, data structures, brute force, *1500,
 
  https://codeforces.com/problemset/problem/1526/C1
 
+代码
+
 ```
 n = int(input())
 potions = list(map(int, input().split()))
@@ -103,7 +105,7 @@ print(cnt)
 
 辅助栈，http://cs101.openjudge.cn/practice/22067/
 
-##### 代码
+代码
 
 ```
 pigs = []
@@ -136,7 +138,7 @@ while True:
 
 Dijkstra, http://cs101.openjudge.cn/practice/20106/
 
-##### 代码
+代码
 
 ```
 import heapq 
@@ -174,7 +176,7 @@ for _ in range(p):
 
 bfs, http://cs101.openjudge.cn/practice/04129/
 
-##### 代码
+代码
 
 ```
 from collections import deque

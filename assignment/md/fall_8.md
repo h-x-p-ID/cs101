@@ -16,7 +16,7 @@ Updated 1021 GMT+8 Nov 12, 2024
 
 matices, http://cs101.openjudge.cn/practice/12558/ 
 
-##### 代码
+代码
 
 ```
 dict = {1:3,2:2,3:1,4:0}
@@ -45,7 +45,7 @@ matrice, https://leetcode.cn/problems/spiral-matrix/
 
 http://cs101.openjudge.cn/practice/18106
 
-##### 代码
+代码
 
 ```
 n = int(input())
@@ -68,6 +68,8 @@ for i in range(n):
 ###  04133:垃圾炸弹
 
 matrices, http://cs101.openjudge.cn/practice/04133/
+
+代码
 
 ```
 d = int(input())
@@ -100,7 +102,7 @@ greedy, dp, https://leetcode.cn/problems/wiggle-subsequence/
 
 思路跟oj题解上胡睿诚学长的思路相仿，但是在后续处理的时候被卡住了，没有想到用sgn（x）（也就是这里k = lst[i] // **abs**(lst[i])这一步）来处理，导致本来写得有点啰嗦，受启发得以简化。关于出现连续不变的项的写法也参照了题解，自己写的绕来绕去绕晕了。
 
-##### 代码
+代码
 
 ```
 n = int(input())
@@ -123,7 +125,7 @@ print(len_num)
 
 dp, 1500, https://codeforces.com/contest/455/problem/A
 
-##### 代码
+代码
 
 ```
 
@@ -135,7 +137,7 @@ dp, 1500, https://codeforces.com/contest/455/problem/A
 
 greedy, dfs http://cs101.openjudge.cn/practice/02287
 
-##### 代码
+代码
 
 ```
 
