@@ -12,7 +12,7 @@ Github网址：[h-x-p-ID/cs101: 2024_fall_cs101 (github.com)](https://github.com
 
 
 
-截图：![image-20250124015219613](C:\Users\35343\AppData\Roaming\Typora\typora-user-images\image-20250124015219613.png)
+截图：![](https://s2.loli.net/2025/01/24/zvxEfLZaQsuFNB4.jpg)
 
 
 
